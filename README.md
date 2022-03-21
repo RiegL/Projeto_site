@@ -3,9 +3,9 @@
 
 <h3>Visualize o projeto no link <a href="https://github.com/RiegL/Projeto_site/" target="_blank"> Prévia publicada </a></h3>
 
-<br/></br>
-Versão Desktop: 
-<img src='media/bannermd.jpg'/>
-</br>
-Versão Mobilie:
-<img src='media/mobilemd.jpg'/>
+<br><br>
+Versão Desktop: <br>
+<img src='media/bannermd.jpg' width="600px" height="auto" align="center" />
+<br><br>
+Versão Mobilie:<br>
+<img src='media/mobilemd.jpg' width="600px" height="auto" align="center"/>
