@@ -1,9 +1,11 @@
-<p>Desenvolvi este site com fins de estudo, pela plataforma B7Web.</p>
-<p>Realizei a criação de um site, para exercitar meus conhecimentos em HTML e CSS. Busquei também deixá-lo totalmente responsivo e em tablet e celular usei js para deixar o menu funcional. :heavy_check_mark: </p> 
+<h1>PROJETO SITE</h1>
+<h3>Desenvolvi este site com fins de estudo, pela plataforma B7Web :confetti_ball:</h3>
+<h3>Realizei a criação de um site, para exercitar meus conhecimentos em HTML e CSS. Menu feito com js para ser funcional</h3> 
+<p>:heavy_check_mark: Totalmente responsivo.</p>
+<p>:heavy_check_mark: Menu para tablet e celuar 100% funcional</p>
 
 
- <h3>Visualize o projeto no link <a href="https://eclectic-dodol-561918.netlify.app/" target="_blank"> Prévia publicada </a></h3> :exclamation:
-:heavy_exclamation_mark:
+ <h3>Visualize o projeto no link <a href="https://eclectic-dodol-561918.netlify.app/" target="_blank">  :arrow_right: Prévia publicada :arrow_left:</a></h3> 
 
 <br><br>
 Versão Desktop: <br>
